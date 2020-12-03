@@ -2,3 +2,5 @@ Rencana Coba
 
 - Praktek R
 - Praktek Phyton
+- Praktek Java
+- Praktek PHP
